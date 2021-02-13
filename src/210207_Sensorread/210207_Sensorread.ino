@@ -1,3 +1,7 @@
+//Wer
+//Wann
+//Beschreibung des Codes und Bauteile
+
 #include "DHT.h"                              //Library für die DHT Sensoren
 #define DHTTYPE DHT22                         //Ab hier wird geladene Bib genutzt. Definition des DHT Types (Tempsensor)
 const int DHT22PIN = D1;                      //Namensgebung des Pins; Hinweis: Konstanten immer komplett groß schreiben
